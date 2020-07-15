@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="my_name_is_anurag_deyol_n_i_am_a_good_boy_n_t_t_t_t_cool_boy">My name is Anurag Deyol \n I am a good boy \n\t\t\t\t cool boy</string>
+    <string name="button">Button</string>
+    <string name="i_am_an_android_developer">I am an Android Developer !</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="n">\n</string>
+</resources>
